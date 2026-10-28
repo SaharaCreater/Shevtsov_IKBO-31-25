@@ -1,0 +1,13 @@
+vfs-info
+ls
+cd level1
+ls
+cd level2
+ls
+cd level3
+ls
+cd ..
+cd ..
+cd ..
+ls
+exit

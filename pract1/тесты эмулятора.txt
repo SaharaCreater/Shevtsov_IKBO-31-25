@@ -1,0 +1,3 @@
+#python emulator.py --vfs ./test_vfs --script script_stages1_3.txt
+#python emulator.py --vfs ./test_vfs_minimal --script script_minimal.txt
+#python emulator.py --vfs ./test_vfs_deep --script script_deep.txt

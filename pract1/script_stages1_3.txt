@@ -1,0 +1,6 @@
+vfs-info
+echo Домашняя папка: $HOME
+ls -la /tmp
+cd docs
+invalid_command_test
+exit
